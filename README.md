@@ -74,8 +74,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/GataNina-Li/GataBot-MD
-> cd GataBot-MD
+> git clone https://github.com/Yair1247/NutellaUwU-MD
+> cd NutellaUwU-MD
 > npm install
 > yarn install 
 > npm install
@@ -93,7 +93,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd GataBot-MD
+> cd NutellaUwU-MD
 > npm start
 ```
 ----
@@ -102,7 +102,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd GataBot-MD
+> cd NutellaUwU-MD
 > rm -rf session.data.json
 > npm start
 ```
