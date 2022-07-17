@@ -4,11 +4,8 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['593993684821', 'GataBot-MD 💖🐈', true],
-  ['593968585383'],
-  ['51941819582'],
-  ['51930583082'],
-  ['14509774891']
+  ['5492227534142', 'NutellaUwU-MD 💖🐈', true],
+  ['5492227552413'],
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -71,8 +68,8 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '🐈 NutellaUwU-𝙈𝘿'
+global.author = 'Nutella UwU'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -82,7 +79,7 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.1.12'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = 'NutellaUwU-𝙈𝘿'
 global.gatabot = gt
 
 global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
