@@ -9,8 +9,8 @@ global.owner = [
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = [] 
-global.prems = ['528451003894'], 
+global.mods = [5492227552413] 
+global.prems = ['5492227552413'], 
 
 global.APIs = { // API Prefix.
   
@@ -80,28 +80,7 @@ global.vs = '1.1.12'
 global.version = vs
 
 global.gt = 'NutellaUwU-𝙈𝘿'
-global.gatabot = gt
-
-global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
-global.youtube = yt
-
-global.ig = 'https://www.instagram.com/gata_dios'
-global.gatadiosig = ig
-
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
-global.gatabot = md
-
-global.nn = 'https://chat.whatsapp.com/Hahc7UwSouH9jIDStkT5QW'
-global.nngrupo = nn //Grupo 1
-
-global.nnn = 'https://chat.whatsapp.com/J96jlutgGlr1gaKgafBj8b'
-global.nnngrupo = nnn //Grupo 2
-
-global.nnnt = 'https://chat.whatsapp.com/LJs5xqqTLrN51npqfAnGXD'
-global.nnngrupo = nnnt //Grupo 3
-
-global.paypal = 'https://paypal.me/OficialGD'
-global.donar = paypal
+global.nutella uwu = UwU 
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -134,8 +113,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = 'NutellaBot-𝙈𝘿 | Nutella UwU'
+global.igfg = 'NutellaBot-𝙈𝘿'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
