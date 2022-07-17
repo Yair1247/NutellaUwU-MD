@@ -69,7 +69,7 @@ global.APIKeys = { // APIKey Here
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = '🐈 NutellaUwU-𝙈𝘿'
-global.author = '****Nutella UwU****'
+global.author = 'Nutella UwU'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
