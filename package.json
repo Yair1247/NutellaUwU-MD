@@ -12,18 +12,18 @@
     "scripts": {
         "start": "node index.js",
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
-        "db": "node . --autocleartmp --db 'mongodb+srv://BrunoSobrino:Akhmad6825@cluster0.mflne.mongodb.net/TheMystic-Bot?retryWrites=true&w=majority'"
+        "db": "node . --autocleartmp --db 'mongodb+srv://Yair1247:Akhmad6825@cluster0.mflne.mongodb.net/TheMystic-Bot?retryWrites=true&w=majority'"
     },
-    "homepage": "https://github.com/GataNina-Li",
+    "homepage": "https://github.com/Yair1247",
     "author": {
-        "name": "GataNina-Li"
+        "name": "Yair1247"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/GataNina-Li/GataBot-MD.git"
+        "url": "git+https: https://github.com/Yair1247/NutellaUwU-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/GataNina-Li/GataBot-MD/issues"
+        "url": "https://github.com/Yair1247/NutellaUwU-MD/issues"
     },
     "license": "MIT",
     "dependencies": {
